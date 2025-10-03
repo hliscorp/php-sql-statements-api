@@ -1,5 +1,5 @@
 {
-  "name": "lucinda/queries",
+  "name": "hlis/queries",
   "type": "library",
   "description": "Generates SQL statements programmatically based on SQL standards or their vendor-specific derivation",
   "keywords": ["sql","query","generation"],
